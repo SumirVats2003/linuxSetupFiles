@@ -21,19 +21,19 @@ sudo apt-add-repository multiverse
 `
 <br/>
 ## 3. Installs:
-vim
-git
-g++
-gcc
-python
-chrome
-vscode
-flutter
-starship
-terminal themes from https://mayccoll.github.io/Gogh/
-my terminal theme: Aci (on number 3 of Gogh themes)
-nerd fonts: I use fira code nerd font
-Vim Plug
+vim<br/>
+git<br/>
+g++<br/>
+gcc<br/>
+python<br/>
+chrome<br/>
+vscode<br/>
+flutter<br/>
+starship<br/>
+terminal themes from https://mayccoll.github.io/Gogh/<br/>
+my terminal theme: Aci (on number 3 of Gogh themes)<br/>
+nerd fonts: I use fira code nerd font<br/>
+Vim Plug<br/>
 
 ## 4. Steps:
 copy .vimrc and .bashrc in home dir
