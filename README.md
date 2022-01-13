@@ -7,16 +7,19 @@
 `
 sudo apt update
 `
+<br/>
 `
 sudo apt upgrade
 `
+<br/>
 `
 sudo apt-add-repository universe
 `
+<br/>
 `
 sudo apt-add-repository multiverse
 `
-
+<br/>
 ## 3. Installs:
 vim
 git
