@@ -5,10 +5,10 @@
 
 ## 2. run command:
 `
-sudo apt update<br/>
-sudo apt upgrade<br/>
-sudo apt-add-repository universe<br/>
-sudo apt-add-repository multiverse<br/>
+sudo apt update``
+sudo apt upgrade``
+sudo apt-add-repository universe``
+sudo apt-add-repository multiverse
 `
 
 ## 3. Installs:
